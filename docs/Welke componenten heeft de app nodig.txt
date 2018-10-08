@@ -1,0 +1,5 @@
+- app
+- Huiswerklijst
+- Vakken	   // om huiswerk in te kunnen delen op vak
+- Chat
+- profiel (pagina) // om namen te kunnen zien in de chat
